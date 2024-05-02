@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['923143117892', 'Cat', true],
-  ['923143117892', 'Zeenu', true], 
+  ['923405597632', 'Mujahid', true],
+  ['923405597632', 'ZM', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['923143117892'] 
-global.prems = ['923143117892']
-global.allowed = ['923143117892']
+global.mods = ['923405597632'] 
+global.prems = ['923405597632']
+global.allowed = ['923405597632']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ZEENU'
+global.botname = 'MUJAHID'
 global.premium = 'true'
 global.packname = 'Friendship' 
 global.author = 'Love' 
